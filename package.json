@@ -1,5 +1,5 @@
 {
-  "name": "@kin-lang/kin",
+  "name": "@pacifiquem/kin",
   "version": "0.4.3",
   "description": "Kin Programming Language: write computer programs in Kinyarwanda.",
   "main": "./dist/src/index.js",
@@ -7,13 +7,13 @@
   "author": "MURANGWA Pacifique",
   "license": "MIT",
   "private": false,
-  "homepage": "https://github.com/kin-lang/kin#readme",
+  "homepage": "https://github.com/pacifiquem/kin#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kin-lang/kin.git"
+    "url": "git+https://github.com/pacifiquem/kin.git"
   },
   "bugs": {
-    "url": "https://github.com/kin-lang/kin/issues"
+    "url": "https://github.com/pacifiquem/kin/issues"
   },
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.ts\"",

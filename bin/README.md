@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kinlang.dev/" target="blank"><img src="https://github.com/kin-lang/kin/blob/main/public/kin-logo.svg" width="120" alt="Kin Logo" /></a>
+  <a href="https://kinlang.dev/" target="blank"><img src="https://github.com/pacifiquem/kin/blob/main/public/kin-logo.svg" width="120" alt="Kin Logo" /></a>
 </p>
 
 <p align="center">Write computer programs in Kinyarwanda! </p>
@@ -11,7 +11,7 @@
 ## Installation
 
 ```shell
-npm i -g @kin-lang/kin
+npm i -g @pacifiquem/kin
 ```
 
 ## Usage

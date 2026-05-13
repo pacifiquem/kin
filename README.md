@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kin-lang/kin/blob/main/public/kin-logo.svg" width="120" alt="Kin Logo" />
+  <img src="https://github.com/pacifiquem/kin/blob/main/public/kin-logo.svg" width="120" alt="Kin Logo" />
 </p>
 
 <p align="center">Write computer programs in Kinyarwanda! </p>
@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![GitHub](https://img.shields.io/github/license/kin-lang/kin) . ![GitHub last commit](https://img.shields.io/github/last-commit/kin-lang/kin) . ![Version](https://img.shields.io/npm/v/@kin-lang/kin) . ![Stars](https://img.shields.io/github/stars/kin-lang/kin) . ![Issues](https://img.shields.io/github/issues/kin-lang/kin)
+![GitHub](https://img.shields.io/github/license/pacifiquem/kin) . ![GitHub last commit](https://img.shields.io/github/last-commit/pacifiquem/kin) . ![Version](https://img.shields.io/npm/v/@pacifiquem/kin) . ![Stars](https://img.shields.io/github/stars/pacifiquem/kin) . ![Issues](https://img.shields.io/github/issues/pacifiquem/kin)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 **Kin** is a straightforward programming language created with the purpose of aiding Rwandans to write computer programs in their native language Kinyarwanda.
 
-> :information_source: **Contributors:** Please see our [ARCHITECTURE.md](https://github.com/kin-lang/kin/blob/main/ARCHITECTURE.md) for a deep dive into Kin's architecture, design, and execution flow before contributing!
+> :information_source: **Contributors:** Please see our [ARCHITECTURE.md](https://github.com/pacifiquem/kin/blob/main/ARCHITECTURE.md) for a deep dive into Kin's architecture, design, and execution flow before contributing!
 
 ## Why Kin?
 
@@ -103,7 +103,7 @@ Some notable **Kin**'s syntax rules are:
 ## Contributing
 
 We still have a long way to go with Kin, we're calling for your contributions!
-Contributions are welcomed, refer to [Contiributing.md](https://github.com/kin-lang/kin/blob/main/contributing.md) for futher info.
+Contributions are welcomed, refer to [Contiributing.md](https://github.com/pacifiquem/kin/blob/main/contributing.md) for futher info.
 
 ## Maintainers
 
@@ -111,7 +111,7 @@ This language is maintained by [@pacifiquem](https://github.com/pacifiquem).
 
 ## License
 
-This project is under [MIT License](https://github.com/kin-lang/kin/blob/main/LICENSE).
+This project is under [MIT License](https://github.com/pacifiquem/kin/blob/main/LICENSE).
 
 <br>
 <br>
