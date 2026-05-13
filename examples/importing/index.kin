@@ -1,0 +1,6 @@
+koresha "./methods.kin" as arthimeticMethods;
+koresha "./constants.kin" as constants;
+
+reka x = arthimeticMethods.guteranya(2, 3) + constants.THRESHOLD;
+
+tangaza_amakuru(x);

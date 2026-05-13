@@ -1,0 +1,22 @@
+porogaramu_ntoya guteranya(a, b) {
+  tanga a + b
+}
+
+porogaramu_ntoya gukuba(a, b) {
+  tanga a * b
+}
+
+porogaramu_ntoya gukuramo(a, b) {
+  tanga a - b
+}
+
+porogaramu_ntoya kugabanya(a, b) {
+  tanga a / b
+}
+
+emerera_gukoresha {
+  guteranya,
+  gukuba,
+  gukuramo,
+  kugabanya
+}
